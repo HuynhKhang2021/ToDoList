@@ -1,0 +1,5 @@
+export const TO_DO_LIST_ACTIONS = {
+ TO_DO_ADD : 'TO_DO_ADD',
+ TO_DO_DELETE : 'TO_DO_DELETE',
+ TO_DO_UPDATE : 'TO_DO_UPDATE',
+}
